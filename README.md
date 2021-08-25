@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaniu&label=Profile%20views&color=0e75b6&style=flat" alt="mmaniu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmaniu" alt="mmaniu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/monkey_maniu" target="blank"><img src="https://img.shields.io/twitter/follow/monkey_maniu?logo=twitter&style=for-the-badge" alt="monkey_maniu" /></a> </p>
 
-- 🔭 I’m currently working on [xfce-nameday-plugin](github.com/xfce-nameday-plugin)
+- 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/xfce-nameday-plugin)
 
-- 👨‍💻 All of my projects are available at [github.com/mmaniu](github.com/mmaniu)
+- 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu)
 
-- 📝 I iregularly write articles on [maniu.eu](maniu.eu)
+- 📝 I iregularly write articles on [maniu.eu](https://maniu.eu)
 
 - 💬 Ask me about **C ,C++ , programing**
 
@@ -26,16 +25,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmaniu&show_icons=true&locale=en&layout=compact" alt="mmaniu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmaniu&show_icons=true&locale=en" alt="mmaniu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmaniu&" alt="mmaniu" /></p>
-
-
-
-
 
 
 <!---
