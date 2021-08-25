@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate Developer from Czechia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaniu&label=Profile%20views&color=0e75b6&style=flat" alt="mmaniu" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/monkey_maniu" target="blank"><img src="https://img.shields.io/twitter/follow/monkey_maniu?logo=twitter&style=for-the-badge" alt="monkey_maniu" /></a> </p>
 
 - 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/xfce-nameday-plugin)
-
 - 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu)
-
 - 📝 I iregularly write articles on [maniu.eu](https://maniu.eu)
-
 - 💬 Ask me about **C ,C++ , programing**
-
 - 📫 How to reach me **mank.pclos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
