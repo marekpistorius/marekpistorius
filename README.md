@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/xfce-nameday-plugin)
 - 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu)
-- 💬 Ask me about **C, C++ , Linux , Dog **
 - 📫 How to reach me **mank.pclos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
