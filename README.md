@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate Developer from Czechia</h3>
 
-- 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin)
+- 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) and [PClinuxOS CZ/SK](https://github.com/pclinuxoscz)
 - 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu)
-- 📫 How to reach me **mank.pclos@gmail.com**
+- 📫 How to reach me **maniu@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
