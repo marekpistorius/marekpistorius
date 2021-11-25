@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer from Czechia</h3>
 
 - 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) and [PClinuxOS CZ/SK](https://github.com/pclinuxoscz)
-- 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu) and [github.com/Mank16](https://github.com/Mank16)
+- 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu) 
 - 📫 How to reach me **maniu@pm.me**
 
 <h3 align="left">Connect with me:</h3>
