@@ -2,13 +2,16 @@
 <h3 align="center">A passionate Developer from Czechia</h3>
 
 - 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) and [PClinuxOS CZ/SK](https://github.com/pclinuxoscz)
-- 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu) 
-- 📫 How to reach me **maniu@pm.me**
-
+- 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu)
+- 🤓 Security Geek 🤓
+- 🎨 Ocasionaly paint 🎨
+- 🍍 Pineapple belong to 🍕
+<hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/monkey_maniu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monkey_maniu" height="30" width="40" /></a>
 <a href="https://instagram.com/monkey_maniu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monkey_maniu" height="30" width="40" /></a>
+  📫: <a href="mailto://maniu@pm.me">maniu@pm.me</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
