@@ -5,7 +5,6 @@
  • [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) \
  • [PClinuxOS CZ/SK](https://github.com/pclinuxoscz) \
  • [Awesome-GIMP](https://github.com/mmaniu/awesome-gimp) 
-- 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu)
 - 🤓 Security Geek 🤓
 - 🎨 Ocasionaly paint 🎨
 - 🍍 Pineapple belong to 🍕
