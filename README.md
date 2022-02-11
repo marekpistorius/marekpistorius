@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate Developer from Czechia</h3>
 
-- 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) and [PClinuxOS CZ/SK](https://github.com/pclinuxoscz)
+- 🔭 I’m currently working on:\
+ • [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) \
+ • [PClinuxOS CZ/SK](https://github.com/pclinuxoscz) \
+ • [Awesome-GIMP](https://github.com/mmaniu/awesome-gimp) 
 - 👨‍💻 All of my projects are available at [github.com/mmaniu](https://github.com/mmaniu)
 - 🤓 Security Geek 🤓
 - 🎨 Ocasionaly paint 🎨
