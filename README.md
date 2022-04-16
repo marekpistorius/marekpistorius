@@ -11,9 +11,10 @@
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/monkey_maniu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monkey_maniu" height="30" width="40" /></a>
-<a href="https://instagram.com/monkey_maniu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monkey_maniu" height="30" width="40" /></a>
-<a href="https://mstdn.io/@monkey_maniu" target="blank"><img align="center" src="https://badgen.net/mastodon/follow/monkey_maniu@mstdn.io" alt="monkey_maniu" /></a>
+ <a href="https://twitter.com/monkey_maniu" target="blank"><img align="center" src="https://badgen.net/twitter/follow/monkey_maniu" alt="monkey_maniu" /></a>
+ <a href="https://mstdn.io/@monkey_maniu" target="blank"><img align="center" src="https://badgen.net/mastodon/follow/monkey_maniu@mstdn.io" alt="monkey_maniu" /></a>
+  <a href="https://instagram.com/monkey_maniu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monkey_maniu" height="30" width="40" /></a>
+
   
   
   📫: <a href="mailto://me@maniu.eu">me@maniu.eu</a>
