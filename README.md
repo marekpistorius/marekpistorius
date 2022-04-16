@@ -11,11 +11,9 @@
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/monkey_maniu" target="blank"><img align="center" src="https://badgen.net/twitter/follow/monkey_maniu" alt="monkey_maniu" /></a>
+ <a href="https://twitter.com/monkey_maniu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="monkey_maniu" /></a>
  <a href="https://mstdn.io/@monkey_maniu" target="blank"><img align="center" src="https://badgen.net/mastodon/follow/monkey_maniu@mstdn.io" alt="monkey_maniu" /></a>
   <a href="https://instagram.com/monkey_maniu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="monkey_maniu" /></a>
-
-  
   
   📫: <a href="mailto://me@maniu.eu">me@maniu.eu</a>
 </p>
