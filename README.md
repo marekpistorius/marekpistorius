@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Developer from Czechia</h3>
 
 - 🔭 I’m currently working on:\
- • [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) \
- • [PClinuxOS CZ/SK](https://github.com/pclinuxoscz) \
- • [Awesome-GIMP](https://github.com/mmaniu/awesome-gimp) 
+  • [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) \
+  • [Awesome-GIMP](https://github.com/mmaniu/awesome-gimp) 
+  • [PClinuxOS CZ/SK](https://github.com/pclinuxoscz) \
 - 🤓 Security Geek 🤓
 - 🎨 Ocasionaly paint 🎨
 - 🍍 Pineapple belong to 🍕
