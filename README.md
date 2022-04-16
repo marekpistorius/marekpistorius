@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate Developer from Czechia</h3>
+<h3 align="center">A passionate Developer/Learner from Czechia</h3>
 
 - 🔭 I’m currently working on:\
   • [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) \
