@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/monkey_maniu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monkey_maniu" height="30" width="40" /></a>
 <a href="https://instagram.com/monkey_maniu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monkey_maniu" height="30" width="40" /></a>
-  📫: <a href="mailto://maniu@pm.me">maniu@pm.me</a>
+  📫: <a href="mailto://me@maniu.eu">me@maniu.eu</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
