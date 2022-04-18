@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marek</h1>
+<h1 align="center">Hi 👋, I'm Marek Pistorius</h1>
 <h3 align="center">A passionate Developer/Learner from Czechia</h3>
 
 - 🔭 I’m currently working on:\
