@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
+<h1 align="center">Hi 👋, I'm Marek</h1>
 <h3 align="center">A passionate Developer/Learner from Czechia</h3>
 
 - 🔭 I’m currently working on:\
-  • [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) \
-  • [Awesome-GIMP](https://github.com/mmaniu/awesome-gimp) \
+  • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
+  • [Awesome-GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [PClinuxOS CZ/SK](https://github.com/pclinuxoscz) 
 - 🤓 Security Geek 🤓
 - 🎨 Ocasionaly paint 🎨
