@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on:\
   • [Awesome-GIMP](https://github.com/marekpistorius/awesome-gimp) \
-  • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
-  • [PClinuxOS CZ/SK Stuff](https://github.com/pclinuxoscz) 
+  • [xfce-nameday-plugin](https://github.com/linux-maniu/xfce-nameday-plugin) \
+  • [Linux Stuff](https://github.com/linux-maniu) 
 - 🤓 Security Geek 🤓
 - 🎨 Ocasionaly paint 🎨
 - 🍍 Pineapple belong to 🍕
