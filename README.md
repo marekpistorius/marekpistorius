@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:\
   • [Awesome-GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
-  • [PClinuxOS CZ/SK](https://github.com/pclinuxoscz) 
+  • [PClinuxOS CZ/SK Stuff](https://github.com/pclinuxoscz) 
 - 🤓 Security Geek 🤓
 - 🎨 Ocasionaly paint 🎨
 - 🍍 Pineapple belong to 🍕
