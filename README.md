@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer from Czechia</h3>
 
 - 🔭 I’m currently working on:\
-  • [Awesome-GIMP](https://github.com/marekpistorius/awesome-gimp) \
+  • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [xfce-nameday-plugin](https://github.com/linux-maniu/xfce-nameday-plugin) \
   • [Linux Stuff](https://github.com/linux-maniu) 
 - 🤓 Security Geek 🤓
