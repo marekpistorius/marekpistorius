@@ -24,10 +24,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <hr />
-<a href="https://ko-fi.com/monkey_maniu" target="blank"><img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-<hr />
 
 <!---
-mmaniu/mmaniu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
