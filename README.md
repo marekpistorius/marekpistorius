@@ -11,8 +11,8 @@
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/monkey_maniu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="monkey_maniu" /></a>
-  <a href="https://instagram.com/monkey_maniu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="monkey_maniu" /></a> <br />
+ <a href="https://twitter.com/Marek_Pistorius" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Marek_Pistorius" /></a>
+  <a href="https://instagram.com/marek_pistorius" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marek_pistorius" /></a> <br />
   <img align="center" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /> : <a href="mailto://me@maniu.eu">me@maniu.eu</a>
 </p>
 
