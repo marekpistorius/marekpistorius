@@ -2,12 +2,11 @@
 <h3 align="center">A passionate Developer from Czechia</h3>
 
 - 🔭 I’m currently working on:\
-  • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
-  • [xfce-nameday-plugin](https://github.com/linux-maniu/xfce-nameday-plugin) \
-  • [Linux Stuff](https://github.com/linux-maniu) 
+    • [xfce-nameday-plugin](https://github.com/linux-maniu/xfce-nameday-plugin) \
+    • [Linux Stuff](https://github.com/linux-maniu) \
+    • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) 
 - 🤓 Security Geek 🤓
 - 🎨 Ocasionaly paint 🎨
-- 🍍 Pineapple belong to 🍕
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
