@@ -14,10 +14,10 @@
  <a href="https://twitter.com/Marek_Pistorius" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Marek_Pistorius" /></a>
   <a href="https://instagram.com/marek_pistorius" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marek_pistorius" /></a>
  <a href="https://stackoverflow.com/users/18864342/marek" target="blank"><img align="center" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"></a>
-  <a href="https://mstdn.io/@monkey_maniu" target="blank"><img align="center" src="https://badgen.net/mastodon/follow/monkey_maniu@mstdn.io" alt="monkey_maniu" /></a>
+</a>
 
   
-  📫: <a href="mailto://me@maniu.eu">me@maniu.eu</a>
+  📫: <a href="mailto://marek.pistorius@maniu.eu">marek.pistorius@maniu.eu</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
