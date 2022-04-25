@@ -17,7 +17,7 @@
 </a>
 
   
-  📫: <a href="mailto://marek.pistorius@maniu.eu">marek.pistorius@maniu.eu</a>
+  📫: <a href="mailto://marek.pistorius@mpistorius.eu">marek.pistorius@mpistorius.eu</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
