@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:\
   • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
   • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
-  • [Linux Stuff](https://github.com/linux-maniu) 
+  • [PCLinuxOS.cz Things](https://github.com/linux-maniu) 
 - 🤓 Security Geek 🤓
 <hr />
 <h3 align="left">Connect with me:</h3>
