@@ -6,7 +6,7 @@
   • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [PCLinuxOS.cz Things](https://github.com/linux-maniu) \
   • [Web (WIP)](https://github.com/marekpistorius/mp.github.io) \
-  • [Sandbox Things](https://github.com/marekpistorius/sandbox)
+  • [Sandbox Things](https://github.com/marekpistorius/sandbox) \
   • [Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [blog.mpistorius.eu](https://blog.mpistorius.eu)
 <hr />
 <h3 align="left">Connect with me:</h3>
