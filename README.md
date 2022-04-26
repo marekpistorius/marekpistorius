@@ -6,7 +6,6 @@
     • [Linux Stuff](https://github.com/linux-maniu) \
     • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) 
 - 🤓 Security Geek 🤓
-- 🎨 Ocasionaly paint 🎨
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
