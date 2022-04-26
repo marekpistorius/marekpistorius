@@ -6,8 +6,6 @@
   • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [Linux Stuff](https://github.com/linux-maniu) 
 - 🤓 Security Geek 🤓
-- 🎨 Ocasionaly paint 🎨
-- 🍍 Pineapple belong to 🍕
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
