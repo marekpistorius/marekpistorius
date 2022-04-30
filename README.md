@@ -5,7 +5,7 @@
   • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
   • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [PCLinuxOS.cz Things](https://github.com/linux-maniu) \
-  • [Web )](https://github.com/marekpistorius/mp.github.io) - Published at [https://mpistorius.eu](https://mpistorius.eu) \
+  • [Web](https://github.com/marekpistorius/mp.github.io) - Published at [https://mpistorius.eu](https://mpistorius.eu) \
   • [Sandbox Things](https://github.com/marekpistorius/sandbox) \
   • [Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [blog.mpistorius.eu](https://blog.mpistorius.eu)
 <hr />
