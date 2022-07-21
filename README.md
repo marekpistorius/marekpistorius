@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:\
     • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
-    • [PCLinuxOS.cz Things](https://github.com/linux-maniu) \
+    • [PCLinuxOS.cz Things](https://github.com/maniu-linux-corner) \
     • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
     • [Web (WIP)](https://github.com/marekpistorius/mp.github.io) \
     • [Sandbox Things](https://github.com/marekpistorius/sandbox) \
