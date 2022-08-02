@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working on:\
     • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
-    • [PCLinuxOS.cz Things](https://github.com/maniu-linux-corner) \
+    • [Linux Things](https://github.com/maniu-linux-corner) \
     • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
-    • [Web (WIP)](https://github.com/marekpistorius/mp.github.io) \
-    • [Sandbox Things](https://github.com/marekpistorius/sandbox) \
-    • [Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [blog.mpistorius.eu](https://blog.mpistorius.eu)
+    • [Web](https://github.com/marekpistorius/mp.github.io) \
+    • [Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [blog.mpistorius.eu](https://blog.mpistorius.eu) \
+    • [Random Things](https://github.com/marekpistorius/sandbox) 
+
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
