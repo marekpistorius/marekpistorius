@@ -6,7 +6,7 @@
   • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [Linux Things](https://github.com/maniu-linux-corner) \
   • [Web](https://github.com/marekpistorius/mp.github.io) - Published at [https://mpistorius.eu](https://mpistorius.eu) \
-  • [Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [blog.mpistorius.eu](https://blog.mpistorius.eu) \
+  • [Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [https://blog.mpistorius.eu](https://blog.mpistorius.eu) \
   • [Random Things](https://github.com/marekpistorius/sandbox) 
 <hr />
 <h3 align="left">Connect with me:</h3>
