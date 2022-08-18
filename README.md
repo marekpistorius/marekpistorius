@@ -6,8 +6,8 @@
   • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
   • [BMDC](https://github.com/bmdcpp/bmdc) \
   • [Linux Things](https://github.com/maniu-linux-corner) \
-  • [Web](https://github.com/marekpistorius/mp.github.io) - Published at [https://mpistorius.eu](https://mpistorius.eu) \
-  • [Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [https://blog.mpistorius.eu](https://blog.mpistorius.eu) \
+  • [Personal Web](https://github.com/marekpistorius/mp.github.io) - Published at [https://mpistorius.eu](https://mpistorius.eu) \
+  • [Personal Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [https://blog.mpistorius.eu](https://blog.mpistorius.eu) \
   • [Random Things](https://github.com/marekpistorius/sandbox) 
 <hr />
 <h3 align="left">Connect with me:</h3>
