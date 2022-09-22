@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on:\
     • [xfce-nameday-plugin](https://github.com/marekpistorius/xfce-nameday-plugin) \
-    • [Linux Things](https://github.com/maniu-linux-corner) \
     • [BMDC](https://github.com/bmdcpp/bmdc) \
+    • [Linux Things](https://github.com/maniu-linux-corner) \
     • [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp) \
     • [Personal Web](https://github.com/marekpistorius/mp.github.io) - Published at [https://mpistorius.eu](https://mpistorius.eu) \
     • [Personal Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [blog.mpistorius.eu](https://blog.mpistorius.eu) \
