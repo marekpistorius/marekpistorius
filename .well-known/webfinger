@@ -1,0 +1,23 @@
+{
+  "subject": "acct:monkey_maniu@mstdn.io",
+  "aliases": [
+    "https://mstdn.io/@monkey_maniu",
+    "https://mstdn.io/users/monkey_maniu"
+  ],
+  "links": [
+     {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://mstdn.io/@monkey_maniu"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://mstdn.io/users/monkey_maniu"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://mstdn.io/authorize_interaction?uri={uri}"
+    }
+  ]
+}
