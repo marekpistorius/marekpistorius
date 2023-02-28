@@ -21,9 +21,5 @@ linkedin: # Add your Linkedin handle
 github:  # Add your Github handle
 twitter: '@monkey_maniu' # Add your Twitter handle
 description: " "
+
 include: [ "/.well-known" ]
-show_downloads: false
-github:
-    is_user_page: false
-    is_project_page: false
-    repository_url: https://maniu.eu
