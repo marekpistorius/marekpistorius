@@ -1,4 +1,4 @@
-theme: jekyll-theme-monday
+remote_theme: artemsheludko/monday
 title:  "Maniu"
 description: " "
 include: [ "/.well-known" ]
