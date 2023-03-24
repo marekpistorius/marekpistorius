@@ -5,8 +5,7 @@
 - title: Instagram
   url: https://instagram.com/monkey_maniu
   icon: fab fa-instagram
-  
-- title: Mastodon
-  url: https://mstdn.io/monkey_maniu
-  icon: fab fa-mastodon
 
+- title: Mastodon
+  url: https://mstdn.io/@monkey_maniu
+  icon: fab fa-mastodon
