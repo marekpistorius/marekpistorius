@@ -12,8 +12,7 @@
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/Marek_Pistorius" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Marek_Pistorius" /></a>
-  <a href="https://instagram.com/marek_pistorius" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marek_pistorius" /></a>
+ <a href="https://instagram.com/marek_pistorius" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marek_pistorius" /></a>
  <a href="https://stackoverflow.com/users/18864342/marek" target="blank"><img align="center" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"></a>
 </a>
   
