@@ -8,7 +8,6 @@
   • [Personal Web](https://github.com/marekpistorius/mp.github.io) - Published at [https://mpistorius.eu](https://mpistorius.eu) \
   • [Personal Blog Things](https://github.com/marekpistorius/blog.github.io) - Published at [https://blog.mpistorius.eu](https://blog.mpistorius.eu) \
   • [Linux Things](https://github.com/maniu-linux-corner) \
-  • [Random Things Place](https://github.com/marekpistorius/sandbox-place) 
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
