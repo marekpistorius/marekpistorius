@@ -21,8 +21,8 @@ subscribe: false
 location: Czechia
 website: maniu.eu # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: maniu.eu # Add your Github handle
-twitter: '@monkey_maniu' # Add your Twitter handle
+github: # Add your Github handle
+bluesky: '@monkey.maniu.eu' # Add your Twitter handle
 description: " "
 
 include: [ "/.well-known" ]
