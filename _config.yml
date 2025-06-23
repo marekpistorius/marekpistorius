@@ -17,7 +17,7 @@ about-description: # Add Discription
 # Contact links
 email: me@maniu.eu # Add your Email address
 Phone: +420
-subscribe: false
+subscribe: true
 location: Czechia
 website: maniu.eu # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
